@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">P05-NDPSongs</string>
+    <string name="activity_main">P05-NDPSongs ~ Insert</string>
+    <string name="activity_second">P05-NDPSongs ~ Show Song</string>
+    <string name="activity_third">P05-NDPSongs ~ Modify Song</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+</resources>
